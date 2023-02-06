@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Counterexit
+  annotations:
+    github.com/project-slug: Gulianrdgd/Counterexit
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Julian
